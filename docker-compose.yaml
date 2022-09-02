@@ -1,5 +1,5 @@
 services:
-  oktetonginx:
+  caddyandnginx:
     build: .
     shm_size: 3gb
     ports:
